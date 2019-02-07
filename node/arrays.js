@@ -10,20 +10,33 @@ const anotherArray = new Array(5);
 console.log(array[0]);
 
 // change elements
-array[1] = 'hello';
+// array[1] = 'hello';
 
 // for practice
 
 // use forEach
+array.forEach(element => console.log(element));
 
 // use map
+const newNew = array.map(n => n + 1);
+console.log(newNew);
 
 // use pop
+newNew.pop();
+console.log(newNew);
 
 // use push
+newNew.push(25);
+console.log(newNew);
 
 // use shift
+newNew.shift();
+console.log(newNew);
 
 // use unshift
+newNew.unshift(17);
+console.log(newNew);
 
 // use filter
+newNew.filter(i => i > 5);
+console.log(newNew);

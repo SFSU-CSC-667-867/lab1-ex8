@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fea6f223-a8f1-4166-9647-18325c2df561" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/node/functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/functions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/arrays.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/node/functions.js">
+        <entry file="file://$PROJECT_DIR$/node/arrays.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="578">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -35,6 +35,7 @@
         <option value="$PROJECT_DIR$/node/helloWorld.js" />
         <option value="$PROJECT_DIR$/node/variables.js" />
         <option value="$PROJECT_DIR$/node/functions.js" />
+        <option value="$PROJECT_DIR$/node/arrays.js" />
       </list>
     </option>
   </component>
@@ -102,12 +103,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549511019464</updated>
-      <workItem from="1549511021108" duration="2448000" />
+      <workItem from="1549511021108" duration="3265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2448000" />
+    <option name="totallyTimeSpent" value="3265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="117" y="23" width="1047" height="777" extended-state="0" />
@@ -142,13 +143,6 @@
     <entry file="file://$PROJECT_DIR$/node/promises.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/node/arrays.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/hello.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -181,6 +175,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1315" column="4" selection-start-line="1315" selection-start-column="4" selection-end-line="1315" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>

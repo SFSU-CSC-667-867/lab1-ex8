@@ -1,10 +1,14 @@
 const promiseExample = () => {
-  return new Promise((resolve) => {
-    setTimeout(() => { resolve('Hello') }, 3000);
-  });
+    return new Promise((resolve) => {
+        setTimeout(() => {
+            resolve('Hello')
+        }, 3000);
+    });
 };
 
 promiseExample()
-  .then((res) => console.log(res));
+    .then((res) => `${res} World`)
+    .then(res => console.log(res))
+    .catch(err => console.error(err));
 
 console.log('hi');

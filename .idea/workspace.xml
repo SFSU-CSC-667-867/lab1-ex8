@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fea6f223-a8f1-4166-9647-18325c2df561" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/node/arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/files.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/files.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/nextTick.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/nextTick.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/promises.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/promises.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/callbacks.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/callbacks.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/node/arrays.js">
+        <entry file="file://$PROJECT_DIR$/node/promises.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="135">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -36,6 +41,10 @@
         <option value="$PROJECT_DIR$/node/variables.js" />
         <option value="$PROJECT_DIR$/node/functions.js" />
         <option value="$PROJECT_DIR$/node/arrays.js" />
+        <option value="$PROJECT_DIR$/web/callbacks.html" />
+        <option value="$PROJECT_DIR$/node/files.js" />
+        <option value="$PROJECT_DIR$/node/nextTick.js" />
+        <option value="$PROJECT_DIR$/node/promises.js" />
       </list>
     </option>
   </component>
@@ -76,9 +85,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.11.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -103,12 +114,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549511019464</updated>
-      <workItem from="1549511021108" duration="3265000" />
+      <workItem from="1549511021108" duration="4685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3265000" />
+    <option name="totallyTimeSpent" value="4685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="117" y="23" width="1047" height="777" extended-state="0" />
@@ -140,9 +151,6 @@
     <entry file="file://$PROJECT_DIR$/node/modules.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/node/promises.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/hello.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -154,13 +162,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/callbacks.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -189,6 +190,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/callbacks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/files.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/nextTick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/promises.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>
